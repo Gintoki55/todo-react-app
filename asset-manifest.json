@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/todo-react-app/static/css/main.5ccdb783.css",
+    "main.js": "/todo-react-app/static/js/main.ab8f76c2.js",
+    "static/js/453.feccd3b4.chunk.js": "/todo-react-app/static/js/453.feccd3b4.chunk.js",
+    "static/media/Alexandria-ExtraBold.ttf": "/todo-react-app/static/media/Alexandria-ExtraBold.ac52cb7f1b6bff5c4692.ttf",
+    "static/media/Alexandria-SemiBold.ttf": "/todo-react-app/static/media/Alexandria-SemiBold.9825eae4f22e4372d850.ttf",
+    "static/media/Alexandria-Medium.ttf": "/todo-react-app/static/media/Alexandria-Medium.e529e0fe5e18e7ad22c4.ttf",
+    "static/media/Alexandria-Light.ttf": "/todo-react-app/static/media/Alexandria-Light.38ea9ca48ff224061348.ttf",
+    "static/media/Alexandria-Regular.ttf": "/todo-react-app/static/media/Alexandria-Regular.4535b8eea67a5b9234dc.ttf",
+    "index.html": "/todo-react-app/index.html",
+    "main.5ccdb783.css.map": "/todo-react-app/static/css/main.5ccdb783.css.map",
+    "main.ab8f76c2.js.map": "/todo-react-app/static/js/main.ab8f76c2.js.map",
+    "453.feccd3b4.chunk.js.map": "/todo-react-app/static/js/453.feccd3b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ccdb783.css",
+    "static/js/main.ab8f76c2.js"
+  ]
+}
